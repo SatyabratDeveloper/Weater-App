@@ -1,0 +1,16 @@
+{
+  "name": "17---weather-project",
+  "version": "1.0.0",
+  "description": "Weather Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.3"
+  }
+}
